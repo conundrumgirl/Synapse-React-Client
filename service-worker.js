@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Synapse-React-Client/precache-manifest.6181b893ab6819929b8e38caffa233a3.js"
+  "/Synapse-React-Client/precache-manifest.8797bec5c0823f9ae4be829d66665251.js"
 );
 
 self.addEventListener('message', (event) => {
